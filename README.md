@@ -29,7 +29,7 @@ This script is useful for cleaning up servers you're a member of. It will:
 
    ```js
    const _8w_a = ["GUILD_ID_1", "GUILD_ID_2"];
-   ```
+   ````
 
 ---
 
@@ -38,20 +38,20 @@ This script is useful for cleaning up servers you're a member of. It will:
 1. Install dependencies:
 
    ```bash
-   npm install axios
-   ```
+   pip install axios
+   ````
 
 2. Run the script:
 
    ```bash
-   node unleave.js
-   ```
+   python main.py
+   ````
 
 3. You will be asked:
 
    ```
    Type 1 to leave all other servers, or 2 to cancel:
-   ```
+   ````
 
    Type `1` to proceed, or `2` to cancel.
 
@@ -71,6 +71,6 @@ This script is useful for cleaning up servers you're a member of. It will:
 discord-unleave-all/
 ├── README.md
 └── unleave.js
-```
+````
 
 ---
