@@ -38,13 +38,13 @@ This script is useful for cleaning up servers you're a member of. It will:
 1. Install dependencies:
 
    ```bash
-   pip install axios
+   npm install axios
    ````
 
 2. Run the script:
 
    ```bash
-   python main.py
+   node main.js
    ````
 
 3. You will be asked:
